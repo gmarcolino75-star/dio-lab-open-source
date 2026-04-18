@@ -27,7 +27,7 @@ Meu objetivo é colocar em prática, muito em breve, todo o conhecimento que ven
 ---
 
 ## 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gersonservulomarcolino/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gersonmarcolino/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gmarcolino75-star)
 
